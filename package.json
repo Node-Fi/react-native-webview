@@ -84,6 +84,7 @@
     "index.js",
     "index.d.ts",
     "react-native-webview.podspec",
-    "react-native.config.js"
+    "react-native.config.js",
+    "src"
   ]
 }
